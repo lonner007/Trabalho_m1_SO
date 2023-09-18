@@ -70,7 +70,7 @@ if __name__ == "__main__":
     end_time = time.time()
     execution_time_multithread = end_time - start_time
 
-    #print("Array reorganizado do menor para o maior (Multi Thread):")
-    #print(sorted_arr)
-    #print("Tempo de execução (Multi Thread):", execution_time_multithread, "segundos")
+    print("Array reorganizado do menor para o maior (Multi Thread):")
+    print(sorted_arr)
+    print("Tempo de execução (Multi Thread):", execution_time_multithread, "segundos")
   
